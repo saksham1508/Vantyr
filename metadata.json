@@ -1,0 +1,8 @@
+{
+  "name": "Vantyr",
+  "description": "Tactical 3D mobile-first shooter featuring TDM, tactical arena combat, AI squads, ADS precision gunplay, dynamic ballistics, and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
